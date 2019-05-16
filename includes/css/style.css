@@ -1,0 +1,144 @@
+
+      html, body{
+        height:100%;
+      }
+
+      
+
+      .abes{
+        height: 50%;
+        width: 50%;
+      }
+
+      .imgcontainer{
+        text-align: center;
+        margin: 24px 0 12px 0;
+      }
+
+      .field{
+        margin-top: 2%;
+      }
+
+      .field_name{
+        font-weight: bold;
+      }
+
+      .edit-button{
+        margin-top: 5%;
+      }
+
+      .edit-academic-button{
+        margin-top: 5%;
+      }
+
+      .update-button{
+        visibility: hidden;
+        margin-top: 5%;
+      }
+
+      .update-academic-button{
+        visibility: hidden;
+        margin-top: 5%;
+      }
+
+      /*   .............. Personal Style  ................ */
+
+      .field_value input{
+        border: 0;
+        width: 100%;
+        background-color: unset;
+      }
+
+      .field_value textarea{
+        border: 0;
+        width: 100%;
+        resize: none;
+        background-color: unset; 
+      }
+
+      .field_value textarea:focus{
+          outline: none;
+      }
+
+      .left-pane{
+        padding-left: 5%;
+        padding-right: 1%;
+      }
+
+      .right-pane{
+        padding-left: 5%;
+        padding-right: 1%;
+      }
+
+      /* ........... Academic Style ............*/
+      
+       .academic-field-name{
+        font-weight: bold;
+      }
+
+       .academic-field-value input{
+        border: 0;
+        width: 100%;
+        background-color: unset;
+      }
+
+      /* ........... Project Intern Style ............*/
+
+      .project-field{
+        margin-top: 2%;
+      }
+
+      .project-field-value textarea{
+        padding-left: 5%;
+        outline: none;
+        border: 0;
+        width: 100%;
+        resize: none;
+        background-color: unset;
+      }
+
+      .project-field_value textarea:focus{
+          outline: none;
+      }
+
+      .project-field-name{
+        padding-left: 5%;
+      }
+
+      .edit-project-button{
+        margin-top: 5%;
+      }
+
+      .update-project-button{
+        visibility: hidden;
+        margin-top: 5%;
+      }
+
+      .photo-field-value.input{
+        background-color: unset;
+      }
+
+      /* .............. Password Changes Style ..............*/
+
+      
+     /* .input[type=password]{
+          width: 100%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          box-sizing: border-box;
+      }*/
+
+    /*  .button-password-field{
+          background-color: steelblue;
+          }*/
+/*
+      .button:hover{
+          opacity: 0.8;
+      }
+
+      .container{
+      padding-left: 5%;
+      }
+*/    
